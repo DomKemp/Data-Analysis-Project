@@ -25,7 +25,7 @@ This interactive report also allows you to "drill-through" each country to get m
 Here is how you can drill-through a specific country:
 
 1. On the "Revenue Summary" page, navigate to the world map.
-2. You will notice green and red bubbles representing each country (bubbles are green if the total sales for the specific country and chosen period are more than $50000 and red if the total sales are less than $50000).
+2. You will notice green and red bubbles representing each country (bubbles are green if the total sales for the specific country and chosen period are more than $100000 and red if the total sales are less than $100000).
 3. Find the country that you would like more details on (you can hover your mouse over a bubble and the country name will be displayed).
 4. Right-click on the bubble, and then hover your mouse over the "Drill through" option.
 5. Click on "Main Summary 3 (matrix by country)", as shown in the below picture:
